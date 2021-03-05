@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://chidiep.github.io/privacy">Privacy</a><br><a href="https://chidiep.github.io/term/">Term of service</a>
+    description                           : <a href="https://chidiep.github.io/privacy">Privacy</a>
     fontawesome_icon_name                 : user-shield
 
 
