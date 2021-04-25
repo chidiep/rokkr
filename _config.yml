@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Notification
+    description                           : Get notification when next episode on air
+    fontawesome_icon_name                 : calendar-check
+    
   - title                                 : Map & Directions
     description                           : Find Movie Theaters Near You
     fontawesome_icon_name                 : location-arrow
 
-  - title                                 : Notification
-    description                           : Scheduler next episode on air
-    fontawesome_icon_name                 : calendar-check
-
   - title                                 : Discover & Tracking
-    description                           : Easy & All in one place
+    description                           : Easy to Track your favorite show
     fontawesome_icon_name                 : magic
 
   - title                                 : Using 3rd party TMDb service.
