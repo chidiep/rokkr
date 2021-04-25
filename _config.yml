@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1556892296                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1208005786                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Rokkr Movies                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Rokkr Tracker                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : This app the fastest, easiest way to find all filter of useful information about movies & series movies, discover TV show on one ios device.
+app_description                           : This app the fastest, easiest way to find and tracking your favorite movies & tv show.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : http://chidiep.github.io/
+your_link                                 : http://dhmobilesoft.github.io/
 your_city                                 : USA
 email_address                             : 
 facebook_username                         :                                           
@@ -38,11 +38,11 @@ features                                  :
     description                           : Find Movie Theaters Near You
     fontawesome_icon_name                 : location-arrow
 
-  - title                                 : Scheduler
+  - title                                 : Notification
     description                           : Scheduler next episode on air
     fontawesome_icon_name                 : calendar-check
 
-  - title                                 : Discover Popular Movies 
+  - title                                 : Discover & Tracking
     description                           : Easy & All in one place
     fontawesome_icon_name                 : magic
 
@@ -55,11 +55,12 @@ features                                  :
     fontawesome_icon_name                 : #star
 
   - title                                 : Contact
-    description                           : 'Messenger: <a href="https://m.me/416305462459391">me</a><br>Email: <a href="mailto:appfeedback118@yandex.com">appfeedback118</a>'
+    description                           : 'Messenger: <a href="https://m.me/416305462459391">me</a><br>Email: <a href="mailto:diepchinguyen408@gmail.com
+">diepchinguyen408</a>'
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://chidiep.github.io/privacy">Privacy</a>
+    description                           : <a href="https://dhmobilesoft.github.io/privacy">Privacy</a>
     fontawesome_icon_name                 : user-shield
 
 
