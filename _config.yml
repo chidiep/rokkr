@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Le Do                                
+your_name                                 : instancealk
 your_link                                 : http://dhmobilesoft.github.io/
 your_city                                 : USA
 email_address                             : 
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : #star
 
   - title                                 : Contact
-    description                           : 'Messenger: <a href="https://m.me/416305462459391">me</a><br>Email: <a href="mailto:diepchinguyen408@gmail.com
+    description                           : '<br>Email: <a href="mailto:instancealk@gmail.com>
 ">diepchinguyen408</a>'
     fontawesome_icon_name                 : address-card
 
