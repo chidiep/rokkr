@@ -55,8 +55,7 @@ features                                  :
     fontawesome_icon_name                 : #star
 
   - title                                 : Contact
-    description                           : '<br>Email: <a href="mailto:instancealk@gmail.com>
-">diepchinguyen408</a>'
+    description                           : '<br>Email: <a href="mailto:instancealk@gmail.com">instancealk@gmail.com</a>'
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
